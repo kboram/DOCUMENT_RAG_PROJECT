@@ -1,0 +1,15 @@
+# env
+.env
+venv/
+
+# data & outputs
+input/
+output/
+pages/
+crop_results/
+ocr_results/
+md_results/
+
+# python
+__pycache__/
+*.pyc
